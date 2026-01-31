@@ -9,3 +9,5 @@ sum = add(a, b)
 print("Sum:", sum)
 print("how are u")
 #this is a comment
+print("I am fine")
+print("What about you?")
