@@ -3,10 +3,10 @@ print("hello world")
 a= 1
 b= 2
 
-def add(x, y):
+def sub(x, y):
     return x - y
 
-sum = add(a, b)
+sum = sub(a, b)
 print(sum)
 
 print("how are u")
